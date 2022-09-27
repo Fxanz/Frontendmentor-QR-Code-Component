@@ -79,6 +79,5 @@ I want to learn more about flexbox because I still have some confusion in some s
 
 ## Author
 
-- Website - [Fxanz](#)
 - Frontend Mentor - [@fxanz](https://www.frontendmentor.io/profile/fxanz)
 - Twitter - [@IFxanz](https://twitter.com/IFxanz)
