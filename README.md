@@ -13,8 +13,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -23,6 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-using-css-grid-SR_ZsmSKVQ)
 - Live Site URL: [Add live site URL here](https://fxanz.github.io/Frontendmentor-QR-Code-Component/)
 
 ## My process
@@ -32,7 +31,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 
 ### What I learned
 
