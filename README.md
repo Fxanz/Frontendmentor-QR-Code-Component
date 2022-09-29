@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-using-css-grid-SR_ZsmSKVQ)
-- Live Site URL: [Add live site URL here](https://fxanz.github.io/Frontendmentor-QR-Code-Component/)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/qr-code-component-using-css-grid-SR_ZsmSKVQ)
+- Live Site URL: [Live Site](https://fxanz.github.io/Frontendmentor-QR-Code-Component/)
 
 ## My process
 
